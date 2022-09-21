@@ -48,7 +48,15 @@ nav ul{
 
 }
 
+.container{
+    display: flex;
+    text-align: column;
+    margin:40px;
+    padding:10px;
 
+
+
+}
 
 
 .flexbox-item-1{
